@@ -1,4 +1,4 @@
-### Hey, how's it going. I'm Ivan Wang! 👋
+### Hey, how's it going. 👋
 
 <!--
 **iwang1959/iwang1959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
