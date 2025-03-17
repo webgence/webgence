@@ -4,7 +4,7 @@
 <p>Albert Einstein once said, <q>As far as the propositions of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality</q></p>
 
 
-<img src="https://github.com/iwang1959/iwang1959/blob/main/pokemons.gif" style="width:500px;height:500px;">
+<img src="https://github.com/iwang1959/iwang1959/blob/main/pokemons.gif" style="width:1000px;height:500px;">
 
 
 <!--
