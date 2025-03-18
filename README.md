@@ -3,6 +3,10 @@
 ![Background](https://github.com/iwang1959/iwang1959/blob/main/background.jpg)
 
 
+> **René Descartes once said:**  
+> *"I think, therefore I am."*
+
+
 ### 🎵 My Favorite Song  
 [![YouTube](https://img.youtube.com/vi/gRLZQhZrj5c/0.jpg)](https://www.youtube.com/watch?v=gRLZQhZrj5c)
 
