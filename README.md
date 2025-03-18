@@ -3,8 +3,8 @@
 ![Background](https://github.com/iwang1959/iwang1959/blob/main/background.jpg)
 
 
-### 🎵 My Favorite Song
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qQ_W1w9v-2Y" frameborder="0" allowfullscreen></iframe>
+### 🎵 My Favorite Song  
+[![YouTube](https://img.youtube.com/vi/qQ_W1w9v-2Y/0.jpg)](https://www.youtube.com/watch?v=qQ_W1w9v-2Y)
 
 
 > **Albert Einstein once said:**  
