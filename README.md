@@ -1,5 +1,14 @@
 ### Hey, how's it going. 👋
 
+<style>
+body {
+  background-image: url('img_girl.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
+
 
 <p>Albert Einstein once said, <q>As far as the propositions of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality</q></p>
 
