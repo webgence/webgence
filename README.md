@@ -6,6 +6,9 @@
 > *"As far as the propositions of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality."*
 
 ![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/pokemons.gif)
+![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/entei.gif)
+![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/greninja.gif)
+![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/lucario.gif)
 
 ---
 
