@@ -5,16 +5,10 @@
 > **Albert Einstein once said:**  
 > *"As far as the propositions of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality."*
 
-<table>
-  <tr>
-    <td><img src="https://github.com/iwang1959/iwang1959/blob/main/pokemons.gif" width="300"></td>
-    <td><img src="https://github.com/iwang1959/iwang1959/blob/main/entei.gif" width="300"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/iwang1959/iwang1959/blob/main/greninja.gif" width="300"></td>
-    <td><img src="https://github.com/iwang1959/iwang1959/blob/main/lucario.gif" width="300"></td>
-  </tr>
-</table>
+| ![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/pokemons.gif) | ![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/entei.gif) |
+|---------------------------------------------|---------------------------------------------|
+| ![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/greninja.gif) | ![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/lucario.gif) |
+
 
 ---
 
