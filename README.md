@@ -4,7 +4,7 @@
 
 
 ### 🎵 My Favorite Song  
-[![YouTube](https://img.youtube.com/vi/qQ_W1w9v-2Y/0.jpg)](https://www.youtube.com/watch?v=qQ_W1w9v-2Y)
+[![YouTube](https://img.youtube.com/vi/gRLZQhZrj5c/0.jpg)](https://www.youtube.com/watch?v=gRLZQhZrj5c)
 
 
 > **Albert Einstein once said:**  
