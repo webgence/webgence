@@ -1,45 +1,30 @@
-### Hey, how's it going. 👋
+### Hey, how's it going? 👋
 
-<html>
-<head>
-<style>
-body {
-  background-image: url('https://github.com/iwang1959/iwang1959/blob/main/background.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: 100% 100%;
-}
-</style>
-</head>
-<body>
+![Background](https://github.com/iwang1959/iwang1959/blob/main/background.jpg)
 
+> **Albert Einstein once said:**  
+> *"As far as the propositions of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality."*
 
-<p>Albert Einstein once said, <q>As far as the propositions of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality</q></p>
+![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/pokemons.gif)
 
+---
 
-<img src="https://github.com/iwang1959/iwang1959/blob/main/pokemons.gif" style="width:1000px;height:500px;">
-
-
-<!--
-**iwang1959/iwang1959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iwang1959" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=iwang1959&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iwang1959&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iwang1959&layout=compact&langs_count=8&theme=radical" />
 </a>
 
-</body>
+---
+
+### 🚀 About Me:
+- 🌱 I’m currently learning **Git, GitHub, and AI model development.**
+- 🤔 I’m looking for collaboration on **scientific AI projects.**
+- 📫 How to reach me: **[Your Contact Here]**
+- ⚡ Fun fact: **I’ve won an award 8 times! 🏆**
+
+---
+
+Let me know if you need any tweaks! 🚀
