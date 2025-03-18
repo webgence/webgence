@@ -17,9 +17,6 @@
 
 
 
-![GIF](https://github.com/iwang1959/iwang1959/blob/main/blueeyes.gif)
-
-
 ---
 
 ### 📊 GitHub Stats:
@@ -37,6 +34,9 @@
 
 
 ---
+
+![GIF](https://github.com/iwang1959/iwang1959/blob/main/blueeyes.gif)
+
 
 ### 🚀 About Me:
 - 🌱 I’m currently learning **Git, GitHub, and AI model development.**
