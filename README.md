@@ -22,9 +22,9 @@
 ### 🚀 About Me:
 - 🌱 I’m currently learning **Git, GitHub, and AI model development.**
 - 🤔 I’m looking for collaboration on **scientific AI projects.**
-- 📫 How to reach me: **[ivanwang1902@gmail.com]**
+- 📫 How to reach me: **ivanwang1902@gmail.com**
 - ⚡ Fun fact: **I’ve won an award 11 times! 🏆**
 
 ---
 
-Let me know if you need any tweaks! 🚀
+Let me know if you want to talk about anything! 🚀
