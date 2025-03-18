@@ -15,6 +15,9 @@
 | ![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/greninja.gif) | ![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/lucario.gif) |
 
 
+![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/blueeyes.gif)
+
+
 ---
 
 ### 📊 GitHub Stats:
