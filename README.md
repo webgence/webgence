@@ -39,9 +39,11 @@
 
 ---
 
-![GIF](https://github.com/iwang1959/iwang1959/blob/main/blueeyes.gif)
 
-![GIF](https://github.com/iwang1959/iwang1959/blob/main/39.gif)
+<img src="https://github.com/iwang1959/iwang1959/blob/main/blueeyes.gif" width="500" height="300">
+
+<img src="https://github.com/iwang1959/iwang1959/blob/main/39.gif" width="500" height="300">
+
 
 
 ### 🚀 About Me:
