@@ -1,6 +1,7 @@
 ### Hey, how's it going? 👋
 
-![Background](https://github.com/iwang1959/iwang1959/blob/main/background.jpg)
+
+<img src="https://github.com/iwang1959/iwang1959/blob/main/background.jpg" width="100%" height="100%">
 
 
 > **René Descartes once said:**  
