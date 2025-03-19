@@ -41,6 +41,8 @@
 
 ![GIF](https://github.com/iwang1959/iwang1959/blob/main/blueeyes.gif)
 
+![GIF](https://github.com/iwang1959/iwang1959/blob/main/39.gif)
+
 
 ### 🚀 About Me:
 - 🌱 I’m currently learning **Git, GitHub, and AI model development.**
