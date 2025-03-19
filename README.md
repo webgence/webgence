@@ -40,9 +40,9 @@
 ---
 
 
-<img src="https://github.com/iwang1959/iwang1959/blob/main/blueeyes.gif" width="500" height="300">
+<img src="https://github.com/iwang1959/iwang1959/blob/main/blueeyes.gif" width="100%" height="100%">
 
-<img src="https://github.com/iwang1959/iwang1959/blob/main/39.gif" width="500" height="300">
+<img src="https://github.com/iwang1959/iwang1959/blob/main/39.gif" width="100%" height="100%">
 
 
 
