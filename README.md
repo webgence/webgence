@@ -1,7 +1,10 @@
 ### Hey, how's it going? 👋
 
 
-<img src="https://github.com/iwang1959/iwang1959/blob/main/frame.png" width="50%" height="50%">
+<a href="https://iwang1959.github.io/landing-page/">
+  <img src="https://github.com/iwang1959/iwang1959/blob/main/frame.png" width="50%" height="50%" align = "center">
+
+</a>
 
 
 <img src="https://github.com/iwang1959/iwang1959/blob/main/background.jpg" width="100%" height="100%">
