@@ -1,5 +1,15 @@
 ### Hey, how's it going? 👋
 
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+
 <br>
 
  <div style="text-align: center;">
