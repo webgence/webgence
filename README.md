@@ -1,5 +1,6 @@
 ### Hey, how's it going? 👋
 
+<br><br><br>
 
 <div style="text-align: center;">
   <p>Scan the QR code or click the image to visit the landing page!</p>
