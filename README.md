@@ -1,6 +1,10 @@
 ### Hey, how's it going? 👋
 
 
+![frame](https://github.com/user-attachments/assets/e07a8c99-ccc1-46e7-93ea-62d74f7bf66e)
+
+
+
 <img src="https://github.com/iwang1959/iwang1959/blob/main/background.jpg" width="100%" height="100%">
 
 
