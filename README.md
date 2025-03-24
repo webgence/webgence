@@ -2,13 +2,13 @@
 
 <br>
 
-<div style="align: center;">
+ <div style="text-align: center;">
   <p>Scan the QR code or click the image to visit the landing page!</p>
   <a href="https://iwang1959.github.io/landing-page/">
-    <img src="https://raw.githubusercontent.com/iwang1959/iwang1959/main/frame.png" width="30%" height="30%" display= "block" margin-left= "auto" margin-right= "auto">
+    <img src="https://raw.githubusercontent.com/iwang1959/iwang1959/main/frame.png" 
+         style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
   </a>
 </div>
-
 
 
 
