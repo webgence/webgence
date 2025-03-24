@@ -61,8 +61,8 @@
 
 <img src="https://github.com/iwang1959/iwang1959/blob/main/39.gif" width="100%" height="100%">
 
-> **Socrates once said:**  
-> *"Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers." *
+> **🧠 Socrates once said:**  
+> *"Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers."*
 
 
 ### 🚀 About Me:
