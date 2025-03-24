@@ -1,14 +1,6 @@
 ### Hey, how's it going? 👋
 
 
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
 
 <br>
 
@@ -46,12 +38,15 @@ img {
 ---
 
 ### 📊 GitHub Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=iwang1959&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iwang1959&layout=compact&langs_count=8&theme=radical" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=iwang1959&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=iwang1959&layout=compact&langs_count=8&theme=radical" />
+  </a>
+</div>
+
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iwang1959/my-repo)
