@@ -8,7 +8,7 @@
   <p>Scan the QR code or click the image to visit the landing page!</p>
   <a href="https://iwang1959.github.io/landing-page/">
     <img src="https://raw.githubusercontent.com/iwang1959/iwang1959/main/frame.png" 
-         style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+         style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
   </a>
 </div>
 
@@ -38,14 +38,12 @@
 ---
 
 ### 📊 GitHub Stats:
-<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=iwang1959&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=iwang1959&layout=compact&langs_count=8&theme=radical" />
   </a>
-</div>
 
 
 
