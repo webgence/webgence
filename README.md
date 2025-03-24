@@ -19,16 +19,8 @@
 <img src="https://github.com/iwang1959/iwang1959/blob/main/background.jpg" width="100%" height="100%">
 
 
-### 🚀 My Tech Stack  
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="50"/>
-</div>
 
 <br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&
 
 
 > **René Descartes once said:**  
