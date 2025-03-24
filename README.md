@@ -5,10 +5,9 @@
 <div style="align: center;">
   <p>Scan the QR code or click the image to visit the landing page!</p>
   <a href="https://iwang1959.github.io/landing-page/">
-    <img src="https://raw.githubusercontent.com/iwang1959/iwang1959/main/frame.png" width="30%" height="30%">
+    <img src="https://raw.githubusercontent.com/iwang1959/iwang1959/main/frame.png" width="30%" height="30%" display= "block" margin-left= "auto" margin-right= "auto">
   </a>
 </div>
-
 
 
 
