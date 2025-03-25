@@ -73,7 +73,7 @@
 - 🌱 I’m currently learning **Git, GitHub, and AI model development.**
 - 🤔 I’m looking for collaboration on **scientific AI projects.**
 - 📫 How to reach me: **ivanwang1902@gmail.com**
-- ⚡ Fun fact: **I’ve won an award 11 times! 🏆**
+- ⚡ Fun fact: **I’ve won an award 12 times! 🏆**
 
 ---
 
