@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>EInventing Tomorrow: AI, Code, VR & the Evolution of Innovation</h1>
+  <h1>Inventing Tomorrow: AI, Code, VR & the Evolution of Innovation</h1>
 </div>
 
 
