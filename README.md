@@ -6,17 +6,8 @@
 
 <br>
 
-<div align="center">
-  <p>Scan the QR code or click the image to visit the landing page!</p>
-  <a href="https://iwang1959.github.io/landing-page/">
-    <img src="https://raw.githubusercontent.com/iwang1959/iwang1959/main/frame.png" 
-         style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
-  </a>
-</div>
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/85b350b3-50f2-49c3-bc5d-7e78bc8f1387" />
 
-<br>
-
-<img src="https://github.com/iwang1959/iwang1959/blob/main/background.jpg" width="100%" height="100%">
 
 
 
