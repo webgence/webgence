@@ -2,11 +2,11 @@
   <h1>Inventing Tomorrow: AI, Code, VR & the Evolution of Innovation</h1>
 </div>
 
-| ![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/pokemons.gif) | ![Pokémon GIF](https://github.com/iwang1959/iwang1959/blob/main/entei.gif) |
-<img width="614" alt="Screenshot 2025-05-26 at 11 33 54 PM" src="https://github.com/user-attachments/assets/1e95aaf1-302a-4eda-b624-0daf83b35f9c" />
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github.com/webgence/webgence/blob/main/github1.png" alt="Left Image" width="300">
+  <img src="https://github.com/webgence/webgence/blob/main/gitthub2.png" alt="Right Image" width="300">
+</div>
 
-
-<img width="612" alt="image" src="https://github.com/user-attachments/assets/85b350b3-50f2-49c3-bc5d-7e78bc8f1387" />
 
 
 <br>
