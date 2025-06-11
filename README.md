@@ -9,6 +9,6 @@
 
 
 
-[View My Resume](https://github.com/webgence/webgence/blob/main/python_cheatsheet.pdf)
+[Python CheatSheet](https://github.com/webgence/webgence/blob/main/python_cheatsheet.pdf)
 
 
