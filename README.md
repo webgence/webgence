@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚀 Inventing Tomorrow: AI, Code, VR & the Evolution of Innovation</h1>
   <p>
-    <em>Pulled too much all nighters in college and is now sleep deprived</em>
+    <em>Pulled too much all nighters in college and is now sleep deprived and constantly tired</em>
   </p>
 </div>
 
