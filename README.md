@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚀 Inventing Tomorrow: AI, Code, VR & the Evolution of Innovation</h1>
   <p>
-    <em>Crafting code and systems with 20+ years of experience in bleeding-edge tech.</em>
+    <em>Pulled too much all nighters in college and is now sleep deprived</em>
   </p>
 </div>
 
