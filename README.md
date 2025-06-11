@@ -7,6 +7,10 @@
   <img src="https://github.com/webgence/webgence/blob/main/gitthub2.png" alt="Right Image" width="300">
 </div>
 
+<br>
+
+<img width="828" alt="image" src="https://github.com/user-attachments/assets/ada95d50-d734-4247-871b-4a7ca33729e5" />
+
 
 
 [Python CheatSheet](https://github.com/webgence/webgence/blob/main/python_cheatsheet.pdf)
