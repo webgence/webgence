@@ -7,3 +7,6 @@
   <img src="https://github.com/webgence/webgence/blob/main/gitthub2.png" alt="Right Image" width="300">
 </div>
 
+
+
+[View My Resume](https://github.com/your-username/your-repo-name/raw/main/resume.pdf)
