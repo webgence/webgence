@@ -35,3 +35,6 @@
 
 Hey cheaters, stop looking at my stuff.
 Why are you even on my github? 
+
+<br>
+World peace can be achieved if you all properly COMMUNICATE properly.
