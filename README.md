@@ -38,9 +38,18 @@ Why are you even on my github? There's a reason I privated everything.
 
 <br>
 
-Stop gaslighting/lying
+ - Stop gaslighting/lying
 
 <br>
-Please seek help. Some of you all need help
+- Please seek help. Some of you all need help
 <br>
-YOU all NEED to properly COMMUNICATE.
+- YOU all NEED to properly COMMUNICATE.
+
+<br>
+
+- If you all need to constantly make deals, then maybe you all don't have much trust and knowledge to begin with.
+
+
+
+
+
