@@ -42,8 +42,14 @@ Why are you even on my github? There's a reason I privated everything.
 
 <br>
 - Please seek help. Some of you all need help
+
 <br>
+
 - YOU all NEED to properly COMMUNICATE.
+
+<br>
+
+- No more Crab in the Bucket Mentality 
 
 <br>
 
