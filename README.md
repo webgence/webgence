@@ -34,7 +34,11 @@
 
 
 Hey cheaters, stop looking at my stuff.
-Why are you even on my github? Get off or I will private everything.
+Why are you even on my github? There's a reason I privated everything.
+
+<br>
+
+Stop gaslighting/lying
 
 <br>
 YOU all NEED to properly COMMUNICATE.
