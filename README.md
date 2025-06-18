@@ -38,7 +38,7 @@ Why are you even on my github? There's a reason I privated everything.
 
 <br>
 
- - Stop gaslighting/lying
+- Stop gaslighting/lying
 
 <br>
 - Please seek help. Some of you all need help
