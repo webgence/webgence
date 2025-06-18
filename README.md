@@ -34,7 +34,7 @@
 
 
 Hey cheaters, stop looking at my stuff.
-Why are you even on my github? 
+Why are you even on my github? Get off or I will private everything.
 
 <br>
 YOU all NEED to properly COMMUNICATE.
