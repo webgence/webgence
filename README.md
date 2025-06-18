@@ -41,4 +41,6 @@ Why are you even on my github? There's a reason I privated everything.
 Stop gaslighting/lying
 
 <br>
+Please seek help. Some of you all need help
+<br>
 YOU all NEED to properly COMMUNICATE.
