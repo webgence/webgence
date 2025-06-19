@@ -47,5 +47,6 @@ Some of you all have too much free time if you're looking at my GitHub.
 -  You all need to properly **communicate**.  
 -  No more "crab in the bucket" mentality.  
 -  If you constantly need to make deals, maybe you don't have much **trust or knowledge** to begin with.
+-  Some of you all need to stop meddling in other poeple's businesses when it doens't concern you
 
 
