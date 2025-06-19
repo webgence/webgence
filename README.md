@@ -35,22 +35,3 @@
 
 > “They won't talk to me, but somehow they always find time to talk to people who orbit around me.  
 > Like I’m a topic, not a person.”
-
-
-## Message
-
-Hey cheaters, stop looking at my stuff.  
-Why are you even on my GitHub? There's a reason I privated everything.  
-
-Some of you all have too much free time if you're looking at my GitHub.
-
----
-
--  Stop gaslighting and lying.  
--  Please seek help — some of you clearly need it.  
--  You all need to properly **communicate**.  
--  No more "crab in the bucket" mentality.  
--  If you constantly need to make deals, maybe you don't have much **trust or knowledge** to begin with.
--  Some of you all need to stop meddling in other poeple's businesses when it doens't concern you
--  Stop overinterpreting everything
-
