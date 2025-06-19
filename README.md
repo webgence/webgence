@@ -33,6 +33,10 @@
 </div>
 
 
+> “They won't talk to me, but somehow they always find time to talk to people who orbit around me.  
+> Like I’m a topic, not a person.”
+
+
 ## Message
 
 Hey cheaters, stop looking at my stuff.  
