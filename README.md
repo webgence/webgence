@@ -42,12 +42,10 @@ Some of you all have too much free time if you're looking at my GitHub.
 
 ---
 
-### Points
-
-- ❌ Stop gaslighting and lying.  
-- 🧠 Please seek help — some of you clearly need it.  
-- 🗣️ You all need to properly **communicate**.  
-- 🦀 No more "crab in the bucket" mentality.  
-- 🤝 If you constantly need to make deals, maybe you don't have much **trust or knowledge** to begin with.
+-  Stop gaslighting and lying.  
+-  Please seek help — some of you clearly need it.  
+-  You all need to properly **communicate**.  
+-  No more "crab in the bucket" mentality.  
+-  If you constantly need to make deals, maybe you don't have much **trust or knowledge** to begin with.
 
 
