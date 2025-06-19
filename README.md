@@ -33,29 +33,21 @@
 </div>
 
 
-Hey cheaters, stop looking at my stuff.
-Why are you even on my github? There's a reason I privated everything.
+## Message
 
-<br>
+Hey cheaters, stop looking at my stuff.  
+Why are you even on my GitHub? There's a reason I privated everything.  
 
-- Stop gaslighting/lying
+Some of you all have too much free time if you're looking at my GitHub.
 
-<br>
-- Please seek help. Some of you all need help
+---
 
-<br>
+### Points
 
-- YOU all NEED to properly COMMUNICATE.
-
-<br>
-
-- No more Crab in the Bucket Mentality 
-
-<br>
-
-- If you all need to constantly make deals, then maybe you all don't have much trust and knowledge to begin with.
-
-
-
+- ❌ Stop gaslighting and lying.  
+- 🧠 Please seek help — some of you clearly need it.  
+- 🗣️ You all need to properly **communicate**.  
+- 🦀 No more "crab in the bucket" mentality.  
+- 🤝 If you constantly need to make deals, maybe you don't have much **trust or knowledge** to begin with.
 
 
