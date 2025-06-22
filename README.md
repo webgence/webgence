@@ -33,5 +33,11 @@
 </div>
 
 
+
 > “They won't talk to me, but somehow they always find time to talk to people who orbit around me.  
 > Like I’m a topic, not a person.”
+
+
+
+<br>
+Stop involving me in your problems
