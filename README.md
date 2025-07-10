@@ -1,15 +1,11 @@
 <div align="center">
   <h1>🚀 Inventing Tomorrow: AI, Code, VR & the Evolution of Innovation</h1>
   <p>
-    <em>Pulled too much all nighters in college and is now sleep deprived and constantly tired</em>
   </p>
 </div>
 
 ---
 
-
-My University said they will rescinded my degree if I keep my public work on my GitHub because it violates there Academic Integrity policy. 
-Thus, I decided to make all my work private. Sorry for the inconvenience.
 
 <div align="center">
   <img src="https://github.com/webgence/webgence/blob/main/github1.png" alt="Tech Showcase 1" width="300">
@@ -36,10 +32,6 @@ Thus, I decided to make all my work private. Sorry for the inconvenience.
   <img src="https://komarev.com/ghpvc/?username=iwang1959&style=flat-square&color=red" alt="Profile views"/>
 </div>
 
-
-
-> “They won't talk to me, but somehow they always find time to talk to people who orbit around me.  
-> Like I’m a topic, not a person.”
 
 
 
