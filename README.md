@@ -34,8 +34,6 @@
 </a>
                         
                         
-https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme.svg
-
 
 
 <div align="center">
