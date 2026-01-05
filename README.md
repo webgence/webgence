@@ -34,5 +34,11 @@
 
 
 
+<a href="https://monkeytype.com/profile/MONKEYTYPE_USERNAME">
+    <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+</a>
+                        
+
+
 
 <br>
