@@ -30,7 +30,7 @@
 
 
 <a href="https://monkeytype.com/profile/venlence">
-    https://raw.githubusercontent.com/webgence/webgence/monkeytype-readme/monkeytype-readme.svg
+        <img src="https://raw.githubusercontent.com/webgence/webgence/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
 </a>
                         
                         
