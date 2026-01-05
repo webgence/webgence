@@ -30,14 +30,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=webgence&style=flat-square&color=blue" alt="Profile views"/>
   <img src="https://komarev.com/ghpvc/?username=iwang1959&style=flat-square&color=red" alt="Profile views"/>
-</div>
-
-
-
-<a href="https://monkeytype.com/profile/MONKEYTYPE_USERNAME">
-    <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-</a>
-                        
+</div>                 
 
 
 
