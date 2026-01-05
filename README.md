@@ -30,10 +30,12 @@
 
 
 <a href="https://monkeytype.com/profile/venlence">
-    <img src="https://raw.githubusercontent.com/webgence/webgence/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+    https://raw.githubusercontent.com/webgence/webgence/monkeytype-readme/monkeytype-readme.svg
 </a>
                         
                         
+https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme.svg
+
 
 
 <div align="center">
