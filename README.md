@@ -10,6 +10,10 @@
 
 
 
+![Rabbit Happy](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Rabit%20Happy.gif)
+
+
+
 
 
 <div align="center">
