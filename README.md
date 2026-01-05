@@ -10,9 +10,7 @@
 
 
 
-![Rabbit Happy](https://github.com/webgence/README_Design_Kit/blob/main/public/Assets/Rabit%20Happy.gif)
-
-
+![Rabbit Happy](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Rabit%20Happy.gif)
 
 
 
