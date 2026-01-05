@@ -27,6 +27,14 @@
 
 ---
 
+
+
+<a href="https://monkeytype.com/profile/venlence">
+    <img src="https://raw.githubusercontent.com/venlence/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+</a>
+                        
+
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=webgence&style=flat-square&color=blue" alt="Profile views"/>
   <img src="https://komarev.com/ghpvc/?username=iwang1959&style=flat-square&color=red" alt="Profile views"/>
