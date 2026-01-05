@@ -11,6 +11,7 @@
 
 
 ![Rabbit Happy](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Rabit%20Happy.gif)
+![Brain](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Brain.png)
 
 
 
